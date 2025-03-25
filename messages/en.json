@@ -1,0 +1,477 @@
+{
+  "navbar": {
+    "items": [
+      { "id": 1, "title": "Showcase", "url": "/showcase" },
+      { "id": 2, "title": "Blog", "url": "/blog" },
+      { "id": 3, "title": "Videos", "url": "/videos" },
+      { "id": 4, "title": "Events", "url": "/events" },
+      { "id": 5, "title": "About", "url": "/about" },
+      { "id": 6, "title": "Log in", "url": "/login", "onlyMobile": true},
+      { "id": 7, "title": "Sign up", "url": "/signup", "onlyMobile": true}
+    ],
+    "searchPlaceholder": "Search documentation...",
+    "login": "Log in",
+    "signup": "Sign up"
+  },
+  "hero": {
+    "title": "Transforming Ideas into Automated Solutions",
+    "name": "CyberControl Lab.",
+    "paragraf": "Advancing automation and intelligent systems through cutting-edge research in electronics, robotics, and programming.",
+    "button": "Research & Projects",
+    "generating": "AI is generating",
+    "htime": "Progress",
+    "hnote": "From Circuits to Intelligence",
+    "ctitle": "Building Intelligent Systems for Tomorrow"
+  },
+  "benefits": {
+    "title": "Chat Smarter, Not Harder with Brainwave",
+    "mitems": [
+      {
+        "id": "0",
+        "title": "Ask anything",
+        "text": "Lets users quickly find answers to their questions without having to search through multiple sources.",
+        "backgroundUrl": "/assets/benefits/card-1.svg",
+        "iconUrl": "/assets/benefits/icon-1.svg",
+        "imageUrl": "/assets/benefits/image-2.png"
+      },
+      {
+        "id": "1",
+        "title": "Improve everyday",
+        "text": "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+        "backgroundUrl": "/assets/benefits/card-2.svg",
+        "iconUrl": "/assets/benefits/icon-2.svg",
+        "imageUrl": "/assets/benefits/image-2.png",
+        "light": true
+      },
+      {
+        "id": "2",
+        "title": "Connect everywhere",
+        "text": "Connect with the AI chatbot from anywhere, on any device, making it more accessible and convenient.",
+        "backgroundUrl": "/assets/benefits/card-3.svg",
+        "iconUrl": "/assets/benefits/icon-3.svg",
+        "imageUrl": "/assets/benefits/image-2.png"
+      },
+      {
+        "id": "3",
+        "title": "Fast responding",
+        "text": "Lets users quickly find answers to their questions without having to search through multiple sources.",
+        "backgroundUrl": "/assets/benefits/card-4.svg",
+        "iconUrl": "/assets/benefits/icon-4.svg",
+        "imageUrl": "/assets/benefits/image-2.png",
+        "light": true
+      },
+      {
+        "id": "4",
+        "title": "Ask anything",
+        "text": "Lets users quickly find answers to their questions without having to search through multiple sources.",
+        "backgroundUrl": "/assets/benefits/card-5.svg",
+        "iconUrl": "/assets/benefits/icon-1.svg",
+        "imageUrl": "/assets/benefits/image-2.png"
+      },
+      {
+        "id": "5",
+        "title": "Improve everyday",
+        "text": "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+        "backgroundUrl": "/assets/benefits/card-6.svg",
+        "iconUrl": "/assets/benefits/icon-2.svg",
+        "imageUrl": "/assets/benefits/image-2.png"
+      }
+    ],
+    "open": "Explore more"
+  },
+  "collabration": {
+    "title": "Innovative Research, Future-Oriented, and Hands-on Learning",
+    "collabcontent": [
+      {
+        "id": "0",
+        "title": "Enhance human-machine collaboration through smart control and AI"
+        
+      },
+      {
+        "id": "1",
+        "title": "Innovate in cybernetics and embedded systems, enabling seamless automation",
+        "text": "Developing smart, connected devices for real-time monitoring and control."
+      },
+      {
+        "id": "2",
+        "title": "Train the next generation of engineers and researchers"
+      }
+    ],
+    "buton": "Learn with Us!",
+    "collabtext": " - With expertise in robotics, AI-driven control systems, and IoT, we explore new frontiers in automation, machine learning, and industrial control, empowering researchers and students to push technological boundaries."
+  },
+  "service": {
+    "title": "Cybernetics & AI Control Systems",
+    "text": "CyberControl Lab. unlocks the potential of Students.",
+    "hfore": "Autonomous Mobile Robot(ARM)",
+    "paragraf": "This project focuses on developing an AI-powered mobile robot that can navigate autonomously in dynamic environments using computer vision and real-time sensor data.",
+    "stext": [
+      "AI-based path planning for obstacle avoidance",
+      "Object recognition and tracking via deep learning models",
+      "Remote monitoring and control via a mobile app"
+    ],
+    "title2": "Photo editing",
+    "paragraf2": "Our designs - Simple, intuitive controls for beginners, with advanced features for professionals.",
+    "photochat": "Easy-to-Use Interface",
+    "hfore2": "3D Modeling & Animation",
+    "paragraf3": "We focus on creating realistic 3D models for product design, using VR technology to enable immersive, interactive simulations.",
+    "videochat": "3D Animations!",
+    "stime": "We do"
+  },
+  "pricing": {
+    "tagtext": "Get started with Brainwave",
+    "title": "Pay once, use forever",
+    "seefull": "See the full details",
+    "prisin": [
+      {
+        "id": "0",
+        "title": "Basic",
+        "description": "AI chatbot, personalized recommendations",
+        "price": "0",
+        "features": [
+          "An AI chatbot that can understand your queries",
+          "Personalized recommendations based on your preferences",
+          "Ability to explore the app and its features without any cost"
+        ]
+      },
+      {
+        "id": "1",
+        "title": "Premium",
+        "description": "Advanced AI chatbot, priority support, analytics dashboard",
+        "price": "9.99",
+        "features": [
+          "An advanced AI chatbot that can understand complex queries",
+          "An analytics dashboard to track your conversations",
+          "Priority support to solve issues quickly"
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Enterprise",
+        "description": "Custom AI chatbot, advanced analytics, dedicated account",
+        "price": null,
+        "features": [
+          "An AI chatbot that can understand your queries",
+          "Personalized recommendations based on your preferences",
+          "Ability to explore the app and its features without any cost"
+        ]
+      }
+    ]
+  },
+  "roadmap": {
+    "rtag": "Ready to get started",
+    "rtitle": "What we’re working on",
+    "roadmp": [
+      {
+        "id": "0",
+        "title": "Voice recognition",
+        "text": "Enable the chatbot to understand and respond to voice commands, making it easier for users to interact with the app hands-free.",
+        "date": "Feb. 2025",
+        "status": "progress",
+        "imageUrl": "/assets/roadmap/image-1.png",
+        "colorful": true
+      },
+      {
+        "id": "1",
+        "title": "Oguz han Library",
+        "text": "A library web app designed for managing and interacting with a library's catalog of books, research papers, and resources.",
+        "date": "Feb. 2025",
+        "status": "progress",
+        "imageUrl": "/assets/roadmap/image-2.png"
+      },
+      {
+        "id": "2",
+        "title": "Dynamic IoT Dashboard",
+        "text": "This project focuses on developing a real-time IoT dashboard that visualizes data from various smart devices and sensors. The system allows users to monitor temperature, humidity, device status, energy consumption, and other parameters through a modern web interface.",
+        "date": "Feb 2025",
+        "status": "progress",
+        "imageUrl": "/assets/roadmap/image-3.png"
+      },
+      {
+        "id": "3",
+        "title": "Face Recognition",
+        "text": "Face recognition in drones combines computer vision, AI, and aerial robotics to identify and track individuals from a drone's camera feed. This technology is widely used for security, surveillance, search-and-rescue, and smart automation.",
+        "date": "Jan 2025",
+        "status": "progress",
+        "imageUrl": "/assets/roadmap/image-4.png"
+      }
+    ],
+    "buton": "Want to Join Us ?"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  },
+  "showcase": {
+    "htwo": "Our Cutting-Edge Projects",
+    "paragraf": "Discover the groundbreaking work being done at CyberControl Lab. Dive into our innovative projects that push the boundaries of technology.",
+    "modaltags": "Technologies Used:",
+    "close": "close",
+    "showtopic": [
+      {
+        "id": 1,
+        "title": "Autonomous Drone",
+        "description": "A self-flying drone with AI-powered navigation.",
+        "imageUrl": "/assets/roadmap/image-1.png",
+        "techUsed": "Python, OpenCV, Raspberry Pi, AI",
+        "details": "This project uses AI to control the drone's movements in real-time, with object detection and path planning algorithms."
+      },
+      {
+        "id": 2,
+        "title": "Robotic Arm",
+        "description": "A robotic arm capable of precise movements.",
+        "imageUrl": "/assets/roadmap/image-1.png",
+        "techUsed": "C++, Arduino, Motors",
+        "details": "A robotic arm designed to handle delicate tasks in a controlled environment with high precision."
+      },
+      {
+        "id": 3,
+        "title": "Smart Home Automation",
+        "description": "A fully connected home automation system.",
+        "imageUrl": "/assets/roadmap/image-1.png",
+        "techUsed": "IoT, Node.js, Home Assistant",
+        "details": "This system controls lighting, temperature, and security, all through your phone or voice commands."
+      },
+      {
+        "id": 4,
+        "title": "Smart Home Automatiasfon",
+        "description": "A fully connected home automation system.",
+        "imageUrl": "/assets/roadmap/image-1.png",
+        "techUsed": "IoT, Node.js, Home Assistant",
+        "details": "This system controls lighting, temperature, and security, all through your phone or voice commands."
+      },
+      {
+        "id": 5,
+        "title": "Smart Home Autoasfmation",
+        "description": "A fully connected home automation system.",
+        "imageUrl": "/assets/roadmap/image-1.png",
+        "techUsed": "IoT, Node.js, Home Assistant",
+        "details": "This system controls lighting, temperature, and security, all through your phone or voice commands."
+      },
+      {
+        "id": 6,
+        "title": "Smart Home aa",
+        "description": "A fully connected home automation system.",
+        "imageUrl": "/assets/roadmap/image-1.png",
+        "techUsed": "IoT, Node.js, Home Assistant",
+        "details": "This system controls lighting, temperature, and security, all through your phone or voice commands."
+      }
+    ]
+  },
+  "blog": {
+    "title": "blog title, blog title, blog title",
+    "search": "search...",
+    "sdate": "sort date",
+    "stitle": "sort title",
+    "scategory": "sort category",
+    "no_posts": "no posts",
+    "readmore": "read more",
+    "posts": [
+      {
+        "id": 1,
+        "title": "AI Robotics Workshop",
+        "description": "Explore the world of AI and Robotics with hands-on workshops.",
+        "category": "Technology",
+        "date": "2025-02-01",
+        "imageUrl": "/assets/roadmap/image-2.png",
+        "readTime": "5 min read"
+      },
+      {
+        "id": 2,
+        "title": "Future of IoT",
+        "description": "Discover the future of IoT and its impact on industries.",
+        "category": "Innovation",
+        "date": "2025-02-15",
+        "imageUrl": "/assets/roadmap/image-2.png",
+        "readTime": "8 min read"
+      },
+      {
+        "id": 3,
+        "title": "Robotics in Education",
+        "description": "Learn how robotics is revolutionizing education.",
+        "category": "Education",
+        "date": "2025-02-18",
+        "imageUrl": "/assets/roadmap/image-2.png",
+        "readTime": "6 min read"
+      },
+      {
+        "id": 4,
+        "title": "AI Robotics Workshasdasdop",
+        "description": "Explore the world of AI and Robotics with hands-on workshops.",
+        "category": "Technology",
+        "date": "2025-02-01",
+        "imageUrl": "/assets/roadmap/image-2.png",
+        "readTime": "5 min read"
+      },
+      {
+        "id": 5,
+        "title": "AI Robotics asdffffffffff",
+        "description": "Explore the world of AI and Robotics with hands-on workshops.",
+        "category": "Technology",
+        "date": "2025-02-01",
+        "imageUrl": "/assets/roadmap/image-2.png",
+        "readTime": "5 min read"
+      },
+      {
+        "id": 6,
+        "title": "AI Robotics Workfasdfshop",
+        "description": "Explore the world of AI and Robotics with hands-on workshops.",
+        "category": "Technology",
+        "date": "2025-02-01",
+        "imageUrl": "/assets/roadmap/image-2.png",
+        "readTime": "5 min read"
+      },
+      {
+        "id": 7,
+        "title": "AI Rasdfsadfobotics Workshop",
+        "description": "Explore the world of AI and Robotics with hands-on workshops.",
+        "category": "Technology",
+        "date": "2025-02-01",
+        "imageUrl": "/assets/roadmap/image-2.png",
+        "readTime": "5 min read"
+      }
+    ]
+  },
+  "videos": {
+    "videocontent":  [
+      {
+        "id": 0,
+        "title": "AI Robotics Workshop",
+        "text": "Explore the world of AI and Robotics...",
+        "category": "tutorials",
+        "videoUrl": "/videos/apt.mp4",
+        "thumbnailUrl": "/thumbnails/ai-robotics.jpg",
+        "iconUrl": "/assets/4-small.png",
+        "light": false
+      },
+      {
+        "id": 1,
+        "title": "AI Robotics Workshop",
+        "text": "Explore the world of AI and Robotics...",
+        "category": "tutorials",
+        "videoUrl": "/videos/apt.mp4",
+        "thumbnailUrl": "/thumbnails/ai-robotics.jpg",
+        "iconUrl": "/assets/4-small.png",
+        "light": false
+      },
+      {
+        "id": 2,
+        "title": "AI Robotics Workshop",
+        "text": "Explore the world of AI and Robotics...",
+        "category": "tutorials",
+        "videoUrl": "/videos/apt.mp4",
+        "thumbnailUrl": "/thumbnails/ai-robotics.jpg",
+        "iconUrl": "/assets/4-small.png",
+        "light": false
+      },
+      {
+        "id": 3,
+        "title": "AI Robotics Workshop",
+        "text": "Explore the world of AI and Robotics...",
+        "category": "tutorials",
+        "videoUrl": "/videos/apt.mp4",
+        "thumbnailUrl": "/thumbnails/ai-robotics.jpg",
+        "iconUrl": "/assets/4-small.png",
+        "light": false
+      },
+      {
+        "id": 4,
+        "title": "AI Robotics Workshop",
+        "text": "Explore the world of AI and Robotics...",
+        "category": "tutorials",
+        "videoUrl": "/videos/apt.mp4",
+        "thumbnailUrl": "/thumbnails/ai-robotics.jpg",
+        "iconUrl": "/assets/4-small.png",
+        "light": false
+      },
+      {
+        "id": 5,
+        "title": "AI Robotics Workshop",
+        "text": "Explore the world of AI and Robotics...",
+        "category": "tutorials",
+        "videoUrl": "/videos/apt.mp4",
+        "thumbnailUrl": "/thumbnails/ai-robotics.jpg",
+        "iconUrl": "/assets/4-small.png",
+        "light": false
+      }
+    ],
+    "title": "Video Hub",
+    "videoerror": "Your browser does not support the video tag.",
+    "fullsc": "Full Screen"
+  },
+  "event": {
+    "rsp": "RSVP Now",
+    "htwo": "Upcoming Events",
+    "paragraf": "Immerse yourself in cutting-edge technology events at CyberControl Lab",
+    "notfound": "No events found in this category",
+    "events": [
+      {
+        "id": 1,
+        "title": "AI Robotics Integration Workshop",
+        "date": "March 15, 2024",
+        "time": "9:00 AM - 5:00 PM",
+        "location": "CyberControl Lab, Main Hall",
+        "description": "Hands-on workshop exploring neural networks in industrial robotics. Participants will program AI-controlled robotic arms using TensorFlow and ROS.",
+        "category": "Workshop",
+        "link": "#",
+        "image": "/assets/notification/image-2.png"
+      },
+      {
+        "id": 2,
+        "title": "Quantum Computing Seminar Series",
+        "date": "April 2, 2024",
+        "time": "3:00 PM - 6:00 PM",
+        "location": "Virtual Event",
+        "description": "Three-part seminar exploring quantum algorithms and their applications in cybersecurity and optimization problems.",
+        "category": "Seminar",
+        "link": "#",
+        "image": "/assets/notification/image-2.png"
+      },
+      {
+        "id": 3,
+        "title": "24hr Neuro-Hackathon",
+        "date": "April 20, 2024",
+        "time": "All Day",
+        "location": "CyberControl Innovation Hub",
+        "description": "Intensive coding competition focusing on brain-computer interface development using EEG and machine learning.",
+        "category": "Hackathon",
+        "link": "#",
+        "image": "/assets/notification/image-2.png"
+      },
+      {
+        "id": 4,
+        "title": "Cybersecurity Deep Dive Workshop",
+        "date": "May 8, 2024",
+        "time": "10:00 AM - 4:00 PM",
+        "location": "Lab Security Pavilion",
+        "description": "Advanced workshop covering zero-trust architectures and AI-driven threat detection systems.",
+        "category": "Workshop",
+        "link": "#",
+        "image": "/assets/notification/image-2.png"
+      },
+      {
+        "id": 5,
+        "title": "Future of AI Ethics Symposium",
+        "date": "June 5, 2024",
+        "time": "1:00 PM - 5:00 PM",
+        "location": "Global Conference Hall",
+        "description": "Panel discussion with industry leaders on ethical AI development and regulatory frameworks.",
+        "category": "Seminar",
+        "link": "#",
+        "image": "/assets/notification/image-2.png"
+      }
+    ]
+  },
+  "about": {
+    "title": "Pioneering the Future of Cybernetic Control",
+    "htwo": "Our Mission",
+    "at": "At",
+    "span": "CyberControl Lab",
+    "text": "we bridge the gap between theoretical research and real-world cybernetic systems. Our interdisciplinary team works at the intersection of:",
+    "htwo2": "Core Research Verticals",
+    "leadership": "Leadership Team",
+    "h2text": "Shape the Future with Us",
+    "paragraf2": "We're collaborating with industry leaders and academic partners to redefine the boundaries of intelligent control systems.",
+    "partner": "Partner With Us",
+    "join": "Join Our Team"
+  }
+}

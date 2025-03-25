@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Branding Design",
+    "category": "branding",
+    "description": "A modern and creative branding design project.",
+    "image": "/images/portfolio/portfolio-01/image-01.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Best Marketing Tips",
+    "category": "marketing",
+    "description": "Effective marketing strategies for business growth.",
+    "image": "/images/portfolio/portfolio-01/image-02.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Web Design Trend",
+    "category": "development",
+    "description": "Latest trends in web design and development.",
+    "image": "/images/portfolio/portfolio-01/image-03.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Business Card Design",
+    "category": "design",
+    "description": "Unique and professional business card designs.",
+    "image": "/images/portfolio/portfolio-01/image-04.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Digital Marketing",
+    "category": "marketing",
+    "description": "Innovative digital marketing solutions.",
+    "image": "/images/portfolio/portfolio-01/image-05.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Creative Agency",
+    "category": "branding",
+    "description": "Building a strong visual identity for brands.",
+    "image": "/images/portfolio/portfolio-01/image-06.jpg"
+  }
+]

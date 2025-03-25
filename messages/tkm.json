@@ -1,0 +1,209 @@
+{
+  "navbar": {
+    "items": [
+      { "id": 1, "title": "Ýumuşlarymyz", "url": "/showcase" },
+      { "id": 2, "title": "Blog", "url": "/blog" },
+      { "id": 3, "title": "Wideolar", "url": "/videos" },
+      { "id": 4, "title": "Bäsleşikler", "url": "/events" },
+      { "id": 5, "title": "Biz barada", "url": "/about" },
+      { "id": 6, "title": "Giriş", "url": "/login", "onlyMobile": true},
+      { "id": 7, "title": "Agza bolmak", "url": "/signup", "onlyMobile": true}
+    ],
+    "searchPlaceholder": "Gollanmalarda gözleg...",
+    "login": "Giriş",
+    "signup": "Agza bolmak"
+  },
+  "hero": {
+    "title": "Pikirleri awtomatlaşdyrylan çözgütlere öwürmek",
+    "name": "CyberControl Lab.",
+    "paragraf": "Elektronika, robototekhnika we programmirleme boýunça täze gözlegler arkaly awtomatlaşdyrmany we akylly ulgamları ösdürmek.",
+    "button": "Gözleg we Taslamalar",
+    "generating": "Ýasama Intellekt işleýär",
+    "htime": "Ösüş",
+    "hnote": "Shemalardan akyllylyga",
+    "ctitle": "Ertir üçin akylly ulgamlar gurýarys"
+  },
+  "benefits": {
+    "title": "Brainwave bilen akylly çatlaşyň",
+    "mitems": [
+      {
+        "id": "0",
+        "title": "Entek näme soralsaňyz",
+        "text": "Ulanyjylara dürli çeşmelerde gözleg etmän çalt jogap tapmak mümkinçiligi.",
+        "backgroundUrl": "/assets/benefits/card-1.svg",
+        "iconUrl": "/assets/benefits/icon-1.svg",
+        "imageUrl": "/assets/benefits/image-2.png"
+      },
+      {
+        "id": "1",
+        "title": "Her gün ösdüriň",
+        "text": "Programma tabiiy dil işlemek ulanyjylaryň soraglaryny düşünmek we dogry jogap bermek üçin.",
+        "backgroundUrl": "/assets/benefits/card-2.svg",
+        "iconUrl": "/assets/benefits/icon-2.svg",
+        "imageUrl": "/assets/benefits/image-2.png",
+        "light": true
+      }
+    ],
+    "open": "Has köpräk öwreniň"
+  },
+  "collabration": {
+    "title": "Täze gözlegler, geljegiň maksatly we amaly okuw",
+    "collabcontent": [
+      {
+        "id": "0",
+        "title": "Akylly dolandyryş we ÝI arkaly adam-maşyn hyzmatdaşlygyny gowulandyrmak"
+      },
+      {
+        "id": "1",
+        "title": "Kibernetika we gurylan ulgamlar boýunça täzeçilikler",
+        "text": "Hakyky wagtda gözegçilik üçin akylly birikdirilen enjamlar."
+      },
+      {
+        "id": "2",
+        "title": "Inženerleriň we gözlegçileriň täze neslini taýýarlamak"
+      }
+    ],
+    "buton": "Biz bilen okaň!",
+    "collabtext": " - Robototekhnika, ÝI dolandyryş ulgamları we IoT bilen awtomatlaşdyrmanyň täze çäklerini öwrenýäris."
+  },
+  "service": {
+    "title": "Kibernetika we Artifikial Intellekt Dolandyryş Ulgamları",
+    "text": "CyberControl Lab. studentleriň mümkinçiliklerini açýar.",
+    "hfore": "Özbaşdak hereket edýän robot (ARM)",
+    "paragraf": "Kompýuter görmek we sensor maglumatlaryny ulanyp, dinamiki gurşawda hereket edip bilýän ÝI-yň güýjüni ulanmak.",
+    "stext": [
+      "Pürsleriň öňüni almak üçin ÝI-yň ýol meýilnamasy",
+      "Derin öwreniş modelleri arkaly obýekti tapmak",
+      "Mobil programma arkaly uzakdan dolandyrmak"
+    ],
+    "title2": "Surat redaktirläň",
+    "paragraf2": "Täze başlaýjylar üçin ýönekeý we hünärmenler üçin giňişleýin funksiýalar.",
+    "photochat": "Aňsat interfeýs",
+    "hfore2": "3D Modellemek we animasiýa",
+    "paragraf3": "Häsiýetli 3D modeller VR tehnologiýasyny ulanmak bilen döretmek.",
+    "videochat": "3D Animasiýalar!",
+    "stime": "Biz edýäris"
+  },
+  "pricing": {
+    "tagtext": "Brainwave bilen işe başlaň",
+    "title": "Bir gezek töleň, ömürlik ulanyň",
+    "seefull": "Jikme-jiklikler",
+    "prisin": [
+      {
+        "id": "0",
+        "title": "Başlangyç",
+        "description": "ÝI chatbot, şahsy maslahatlar",
+        "price": "0",
+        "features": [
+          "Soraglaryňyzy düşünip bilýän ÝI chatbot",
+          "Şahsy höweslere esaslanyp maslahatlar",
+          "Mugt çäklendirilmesiz ulanyş"
+        ]
+      }
+    ]
+  },
+  "roadmap": {
+    "rtag": "Başlamaga taýynmy?",
+    "rtitle": "Biz nähili işleýäris",
+    "roadmp": [
+      {
+        "id": "0",
+        "title": "Sesleri anyklamak",
+        "text": "Ulanyjylaryň ellersiz çatlaşmak üçin ses buýruklaryny düşünmek.",
+        "date": "Few. 2025",
+        "status": "iş dowam edýär",
+        "imageUrl": "/assets/roadmap/image-1.png",
+        "colorful": true
+      }
+    ],
+    "buton": "Bize goşulmak isleýärsiňizmi?"
+  },
+  "footer": {
+    "rights": "Ähli hukuklar goraglý."
+  },
+  "showcase": {
+    "htwo": "Öňdebaryjy taslamalarymyz",
+    "paragraf": "CyberControl Lab-iň tehnologiýanyň çäklerini giňeldýän täze taslamalary.",
+    "modaltags": "Ulanylýan tehnologiýalar:",
+    "close": "ýap",
+    "showtopic": [
+      {
+        "id": 1,
+        "title": "Özbaşdak uçýan enjam",
+        "description": "ÝI-nawigasiýaly özbaşdak uçýan enjam.",
+        "imageUrl": "/assets/roadmap/image-1.png",
+        "techUsed": "Python, OpenCV, Raspberry Pi, ÝI",
+        "details": "Hakyky wagtda obýektleri anyklamak bilen hereket etmek"
+      }
+    ]
+  },
+  "blog": {
+    "title": "Tehnologiýa we täzeçilikler barada blog",
+    "search": "gözleg...",
+    "sdate": "sene boýunça",
+    "stitle": "ady boýunça",
+    "scategory": "kategoriýa boýunça",
+    "no_posts": "ýazgylar ýok",
+    "readmore": "dowamyny okaň",
+    "posts": [
+      {
+        "id": 1,
+        "title": "ÝI we Robototekhnika worşopy",
+        "description": "ÝI we robototekhnika bilen amaly sapaklar.",
+        "category": "Tehnologiýa",
+        "date": "2025-02-01",
+        "imageUrl": "/assets/roadmap/image-2.png",
+        "readTime": "5 minut"
+      }
+    ]
+  },
+  "videos": {
+    "videocontent": [
+      {
+        "id": 0,
+        "title": "ÝI-Robototekhnika worşopy",
+        "text": "ÝI we robototekhnika bilen amaly sapaklar...",
+        "category": "sapaklar",
+        "videoUrl": "/videos/apt.mp4",
+        "thumbnailUrl": "/thumbnails/ai-robotics.jpg",
+        "iconUrl": "/assets/4-small.png",
+        "light": false
+      }
+    ],
+    "title": "Wideo merkezi",
+    "videoerror": "Brauzeriňiz wideony goldamaýar.",
+    "fullsc": "Doly ekran"
+  },
+  "event": {
+    "rsp": "Şu wagtyň özünde ýazyl",
+    "htwo": "Geljekki wakalar",
+    "paragraf": "CyberControl Lab-däki tehnologiýa wakalary",
+    "notfound": "Kategoriýada waka ýok",
+    "events": [
+      {
+        "id": 1,
+        "title": "ÝI we Robototekhnika integrasiýasy worşopy",
+        "date": "15 Mart 2024",
+        "time": "9:00 - 17:00",
+        "location": "CyberControl Lab, Baş zal",
+        "description": "TensorFlow we ROS ulanyp ÝI robotlary programmirlemek.",
+        "category": "Worşop",
+        "link": "#",
+        "image": "/assets/notification/image-2.png"
+      }
+    ]
+  },
+  "about": {
+    "title": "Kibernetik dolandyryşyň geljegini döretmek",
+    "htwo": "Biziň maksadymyz",
+    "at": "",
+    "span": "CyberControl Lab",
+    "text": "kibernetik ulgamlaryň teoriýasy bilen amaly birikdirýäris.",
+    "htwo2": "Esasy gözleg ugurlary",
+    "leadership": "Ýolbaşçylyk topary",
+    "h2text": "Biz bilen geljegi dörediň",
+    "paragraf2": "Tehnologiýanyň çäklerini üýtgetmek üçin senagat liderleri bilen işleýäris.",
+    "partner": "Bilen hyzmatdaşlyk",
+    "join": "Topara goşul"
+  }
+}
